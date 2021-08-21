@@ -1,0 +1,2 @@
+
+void cargar(struct *alumno);
