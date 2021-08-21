@@ -1,1 +1,0 @@
-float promedio(float *,int);
