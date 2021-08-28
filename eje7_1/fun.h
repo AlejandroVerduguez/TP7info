@@ -1,0 +1,1 @@
+struct dividir divide(int *dividendo, int *divisor);
